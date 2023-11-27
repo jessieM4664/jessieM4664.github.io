@@ -1,0 +1,8 @@
+IMAGES TO INCLUDE:
+bg.png
+logo.png
+phone_bg.png
+user.png
+work1.png
+work2.png
+work3.png
